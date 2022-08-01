@@ -1,5 +1,9 @@
 ## Olá! eu sou o João Diniz. 😃
 
+- 📚 Cursando o 2º semestre de análise e desenvolvimento de sistemas.
+- 💻 Estagiário de QA/Testes na Stefanini Brasil.
+- 👨‍🎓 Estudando Java.
+
 <div align="center">
   <a href="https://github.com/jvsdiniz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvsdiniz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
