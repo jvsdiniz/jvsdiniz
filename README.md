@@ -1,6 +1,6 @@
 ## Olá! eu sou o João Diniz. 😃
 
-- 📚 Cursando o 2º semestre de análise e desenvolvimento de sistemas.
+- 📚 Cursando o 3º semestre de análise e desenvolvimento de sistemas.
 - 💻 Estagiário de QA/Testes na Stefanini Brasil.
 - 👨‍🎓 Estudando Java.
 
