@@ -1,8 +1,7 @@
 ## Olá! eu sou o João Diniz. 😃
 
-- 📚 Cursando o 3º semestre de análise e desenvolvimento de sistemas.
-- 💻 Estagiário de QA/Testes na Stefanini Brasil.
-- 👨‍🎓 Estudando Java.
+- 📚 Cursando o 4º semestre de análise e desenvolvimento de sistemas.
+- 💻 Analista de qualidade de software Jr. @ ALPE
 
 <div align="center">
   <a href="https://github.com/jvsdiniz">
