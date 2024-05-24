@@ -1,6 +1,6 @@
 ## Olá! eu sou o João Diniz. 😃
 
-- 📚 Cursando o 4º semestre de análise e desenvolvimento de sistemas.
+- 📚 Formado em análise e desenvolvimento de sistemas.
 - 💻 Analista de qualidade de software Jr. @ ALPE
 
 <div align="center">
