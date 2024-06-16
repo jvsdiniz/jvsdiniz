@@ -2,6 +2,7 @@
 
 - 📚 Formado em análise e desenvolvimento de sistemas.
 - 💻 Analista de qualidade de software Jr. @ ALPE
+- 👨🏻‍💻 Atualmente trabalho com Cypress, realizando a automação de testes E2E.
 
 <div align="center">
   <a href="https://github.com/jvsdiniz">
