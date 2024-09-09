@@ -1,6 +1,6 @@
 ## Olá! eu sou o João Diniz. 😃
 
-- 📚 Formado em análise e desenvolvimento de sistemas.
+- 📚 Formado em análise e desenvolvimento de sistemas @ SPTECH
 - 💻 Analista de qualidade de software @ ALPE
 - 👨🏻‍💻 Atualmente trabalho com Cypress, realizando a automação de testes E2E.
 
