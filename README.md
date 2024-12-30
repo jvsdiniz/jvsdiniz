@@ -1,7 +1,7 @@
 ## Olá! eu sou o João Diniz. 😃
 
 - 📚 Formado em análise e desenvolvimento de sistemas @ SPTECH
-- 💻 Analista de qualidade de software @ Inmetrics | Projeto GlobalCards do Santander
+- 💻 Analista de Qualidade de Software @ Inmetrics | Projeto Plard do Santander
 - 👨🏻‍💻 Atualmente trabalho com Cypress, realizando a automação de testes E2E.
 
 <div align="center">
