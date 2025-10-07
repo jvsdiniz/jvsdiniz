@@ -1,14 +1,16 @@
 ## Olá! eu sou o João Diniz. 😃
 
 - 📚 Formado em análise e desenvolvimento de sistemas @ SPTECH
-- 💻 Analista de Qualidade de Software @ Inmetrics | Projeto Plard do Santander
-- 👨🏻‍💻 Atualmente trabalho com Cypress, realizando a automação de testes E2E.
+- 💻 Analista de Qualidade de Software @ Inmetrics 
+- 👨🏻‍💻 Atualmente trabalho exclusivamente com automação de testes
 
 <div align="center">
   <a href="https://github.com/jvsdiniz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvsdiniz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsdiniz&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
